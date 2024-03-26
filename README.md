@@ -8,7 +8,7 @@ Keywords: how to fix gym cartpole no render
 
 ** You don't have to feel that pain..  I've got your back 🤗️**
 
-_**The code can be found within the files above. In addition I have added an executable file. You can run it if you have already installed ```stable-baselines3[extra]``` and ```"gymnasium[all]"``` _
+**The code can be found within the files above. In addition I have added an executable file. You can run it if you have already installed ```stable-baselines3[extra]``` and ```"gymnasium[all]"``` 
 
 I will guide you step by step how to run the code and try this test...
 
